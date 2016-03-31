@@ -1,0 +1,15 @@
+test-output
+bin
+build
+*.log
+*.html
+*.js
+*.svg
+*.css
+*.png
+*.zip
+*.jpg
+XSLT_Reports
+FAILED_TEST_SCREENSHOTS
+.metadata/
+RemoteSystemsTempFiles
